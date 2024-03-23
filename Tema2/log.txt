@@ -1,0 +1,21 @@
+Time: 0
+Waiting Clients: (0, 1, 1);(1, 1, 1);
+Queue 1: closed
+
+
+average wating time:0
+average service time: 0
+Time: 1
+Waiting Clients: 
+Queue 1: (0, 1, 1);(1, 1, 1);
+
+
+average wating time:0
+average service time: 0
+Time: 2
+Waiting Clients: 
+Queue 1: (1, 1, 1);
+
+
+average wating time:0
+average service time: 0
